@@ -1,5 +1,8 @@
 # STEP_session_8
-Files, Libraries, Functions, and Object Oriented Programming
+
+## The big picture
+
+# Files, Libraries, Functions, and Object Oriented Programming
 
 ## Importing libraries
 
@@ -16,3 +19,5 @@ Files, Libraries, Functions, and Object Oriented Programming
 ## Linking files
 
 ## Strategies for creating and organizing files
+
+## Resources, References, and Links
